@@ -75,7 +75,7 @@
 }
 
 .ex-7-img:hover {
-    filter: hue-rotate(180deg);
+    filter: hue-rotate(180deg) saturate(0.5);
 }
 
 .ex-9-img {
